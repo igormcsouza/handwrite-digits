@@ -13,6 +13,7 @@ COPY scripts /workdir/
 RUN pip install -e .
 
 # Copying the data
+COPY data /data/
 
 # Run Bash
 CMD ["/bin/bash"]
