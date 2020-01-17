@@ -1,6 +1,9 @@
 # Handwrite Digits Classifier
 This extract was inpired by PyImageSearch, case studies edition 3!
 
+## Dockerhub?
+https://hub.docker.com/repository/docker/igormcsouza/ml
+
 ## How to find the data?
 The data will be mounted on docker! Nevertheless you may find them [here](https://www.kaggle.com/c/digit-recognizer/data) or type the command below on terminal
 
